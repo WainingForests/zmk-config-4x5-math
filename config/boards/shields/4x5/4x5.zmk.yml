@@ -1,6 +1,6 @@
 file_format: "1"
-id: skretch
-Name: skretch
+id: 4x5
+Name: 4x5
 type: shield
 url: https://github.com/WainingForests/xiao-zmk-skretch/
 requires: [seeed_xiao]
