@@ -14,4 +14,4 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: 4x5
+    shield: Key-Pad-4x5
