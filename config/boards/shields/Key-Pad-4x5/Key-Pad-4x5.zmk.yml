@@ -1,0 +1,8 @@
+file_format: "1"
+id: Key-Pad-4x5
+Name: Key-Pad-4x5
+type: shield
+url: https://github.com/WainingForests/zmk-config-4x5-math/
+requires: [seeed_xiao]
+features:
+  - keys
