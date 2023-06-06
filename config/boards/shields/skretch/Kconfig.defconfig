@@ -1,6 +1,6 @@
-if SHIELD_SKRETCH
+if SHIELD_4x5
 
 config ZMK_KEYBOARD_NAME
-    default "Skretch"
+    default "4x5"
 
 endif
