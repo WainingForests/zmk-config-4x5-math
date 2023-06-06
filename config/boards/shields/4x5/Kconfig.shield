@@ -1,2 +1,0 @@
-config SHIELD_4X5
-    def_bool $(shields_list_contains,4x5)
