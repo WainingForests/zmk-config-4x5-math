@@ -1,4 +1,4 @@
-if SHIELD_4x5
+if SHIELD_4X5
 
 config ZMK_KEYBOARD_NAME
     default "4x5"
