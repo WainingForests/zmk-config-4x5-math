@@ -2,7 +2,7 @@ file_format: "1"
 id: 4x5
 Name: 4x5
 type: shield
-url: https://github.com/WainingForests/xiao-zmk-skretch/
+url: https://github.com/WainingForests/xiao-zmk-zmk-config-4x5-math/
 requires: [seeed_xiao]
 features:
   - keys
